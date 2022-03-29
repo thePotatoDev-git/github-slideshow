@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to out second slide!"
+title: "Welcome to our second slide!"
 ---
-Your text
+Inflammable means flammable? What a country!
 Use the left arrow to go back!
